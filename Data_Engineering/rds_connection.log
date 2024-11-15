@@ -1,0 +1,4 @@
+INFO:root:Successfully connected to RDS.
+INFO:root:Data fetched from 'people1000'.
+INFO:root:Final transformed data selected for storage.
+ERROR:root:Failed to upload data to S3: An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.
